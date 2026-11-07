@@ -21,30 +21,29 @@ Recordatorios de entregas para el aula virtual de NovaUniversitas (Android).
 
 ## Instalar
 
-**Necesitas Android 7.0 o más nuevo.** (Ajustes → Acerca del teléfono → Versión de Android)
+**Requisito:** Android 7.0 o más nuevo.
 
-1. Si tienes la versión vieja llamada **"Entregas"**, desinstálala primero.
-2. Descarga **[kairia.apk](https://github.com/OmarDavidd/kairia/releases/latest/download/kairia.apk)** desde el celular.
-3. Abre el archivo descargado (en la notificación de descarga o en la app **Archivos → Descargas**).
-4. Si te pide permiso para **instalar apps desconocidas**, actívalo para tu navegador o la app de archivos y regresa.
-5. Toca **Instalar**.
-6. Abre Kairia, entra con tu usuario del aula y permite las **notificaciones**.
+1. Descarga **[kairia.apk](https://github.com/OmarDavidd/kairia/releases/latest/download/kairia.apk)** desde el celular.
+2. Abre el archivo descargado (desde la notificación de descarga o en **Archivos → Descargas**).
+3. Si Android lo pide, permite **instalar apps desconocidas** para tu navegador o tu app de archivos.
+4. Toca **Instalar**.
+5. Abre Kairia, entra con tu usuario del aula y permite las **notificaciones**.
 
 Las actualizaciones se instalan encima sin perder tu sesión. Kairia te avisa cuando hay una nueva.
 
-### Si dice "No se instaló la app" o la bloquea
+### Ayuda con la instalación
 
-Kairia no viene de la Play Store, así que Android la trata con desconfianza aunque sea segura. Revisa en este orden:
+Como Kairia se instala fuera de la Play Store, Android puede mostrar avisos de seguridad. Es normal en cualquier app instalada así.
 
-| Lo que ves | Qué hacer |
+| Situación | Solución |
 |---|---|
-| Aviso de **Play Protect** ("App no segura", "desarrollador desconocido") | Toca **Más detalles → Instalar de todas formas**. |
-| Play Protect no da opción de instalar | Play Store → tu foto → **Play Protect** → ⚙️ → desactiva *Analizar apps* un momento, instala y **vuelve a activarlo**. |
-| Xiaomi / Redmi / POCO: aviso de **análisis de seguridad** | Toca **Continuar** / **Instalar de todas formas**. |
-| "No se instaló la app" sin más | 1) Borra el archivo y **descárgalo de nuevo** (pudo bajarse incompleto). 2) Revisa que tu Android sea **7.0 o más nuevo**. 3) Libera espacio: necesita unos 150 MB. |
-| "Hubo un problema al analizar el paquete" | Tu Android es demasiado viejo, o el archivo está incompleto: descárgalo de nuevo. |
+| Aviso de **Play Protect** | Toca **Más detalles → Instalar de todas formas**. |
+| Play Protect no muestra la opción de instalar | Play Store → tu foto → **Play Protect** → ⚙️ → pausa *Analizar apps*, instala y **vuelve a activarlo**. |
+| Aviso de **análisis de seguridad** (Xiaomi, Redmi, POCO) | Toca **Continuar** o **Instalar de todas formas**. |
+| La instalación falla sin más detalles | Descarga el archivo de nuevo, revisa que tu Android sea 7.0 o más nuevo y que tengas al menos 150 MB libres. |
+| "Problema al analizar el paquete" | El archivo está incompleto o tu Android es muy antiguo. Descárgalo de nuevo. |
 
-No envíes el APK por WhatsApp: a veces lo renombra o lo corta. Comparte mejor este enlace.
+Para compartir Kairia, comparte este enlace en lugar del archivo: algunas apps de mensajería modifican los APK.
 
 ## Privacidad y seguridad
 
