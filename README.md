@@ -9,6 +9,7 @@ Recordatorios de entregas para el aula virtual de NovaUniversitas (Android).
 - Revisa tus tareas del aula unas 3 veces al día y te avisa cuando hay una nueva.
 - Ordena tus entregas por urgencia: hoy, mañana, esta semana y más adelante.
 - Desliza una tarea para marcarla como hecha u ocultarla si no es para ti.
+- Ponle tu propia fecha a las tareas que el profe dejó sin fecha.
 - Te recuerda 48 h, 24 h y 3 h antes de cada fecha límite.
 - Muestra las instrucciones de cada tarea dentro de la app.
 - Solo **lee** información: no entrega tareas ni modifica nada en el aula.
