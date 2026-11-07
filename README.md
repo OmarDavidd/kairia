@@ -38,7 +38,6 @@ Como Kairia se instala fuera de la Play Store, Android puede mostrar avisos de s
 | Situación | Solución |
 |---|---|
 | Aviso de **Play Protect** | Toca **Más detalles → Instalar de todas formas**. |
-| Play Protect no muestra la opción de instalar | Play Store → tu foto → **Play Protect** → ⚙️ → pausa *Analizar apps*, instala y **vuelve a activarlo**. |
 | Aviso de **análisis de seguridad** (Xiaomi, Redmi, POCO) | Toca **Continuar** o **Instalar de todas formas**. |
 | La instalación falla sin más detalles | Descarga el archivo de nuevo, revisa que tu Android sea 7.0 o más nuevo y que tengas al menos 150 MB libres. |
 | "Problema al analizar el paquete" | El archivo está incompleto o tu Android es muy antiguo. Descárgalo de nuevo. |
